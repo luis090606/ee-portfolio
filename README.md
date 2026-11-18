@@ -14,4 +14,4 @@ Projects and skills for Summer 2027 EE internships.
 - STM32 or ESP32 (embedded)
 
 ## Projects
-_Coming soon._
+_First project coming Dec 7, 2026: resistor calculator in Python._
